@@ -1,7 +1,0 @@
----
-
-[server]
-ansible_user=adders
-ansible_password=P@ssw0rd
-ansible_connection=winrm
-ansible_winrm_server_cert_validation=ignore
