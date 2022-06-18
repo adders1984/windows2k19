@@ -1,7 +1,7 @@
-[Server]
+[server]
 192.168.0.86
 
-[Server:vars]
+[server:vars]
 ansible_user=adders
 ansible_password=P@ssw0rd
 ansible_connection=winrm
