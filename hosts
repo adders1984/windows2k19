@@ -1,2 +1,8 @@
 [server]
 192.168.0.86
+
+[server:vars]
+ansible_user=adders
+ansible_password=P@ssw0rd
+ansible_connection=winrm
+ansible_winrm_server_cert_validation=ignore
