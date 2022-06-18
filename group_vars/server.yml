@@ -1,3 +1,5 @@
+---
+
 [server]
 ansible_user=adders
 ansible_password=P@ssw0rd
